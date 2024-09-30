@@ -7,7 +7,7 @@ I am a student studying **[Computer Engineering]** at **[Kangwon National Univer
 
 
 My main interest is ***[game programming]*** of development.<br>
-I want to become a client programmer<br>
+I want to become a ***[client programmer]***.<br>
 
 
 Currently, I am studying C++, Data Structures, and Algorithms.<br>
