@@ -1,5 +1,5 @@
-#🩻 Profile
-##Hello, I am Kiho Park.<br>
+# 🩻 Profile
+## Hello, I am Kiho Park.<br>
 ***
 ● I am majoring in **Computer Engineering** at Kangwon National University.<br>
 ● I am very interested in 🕹️ **Game Development** and ⚛️ **Web Development**.<br>
