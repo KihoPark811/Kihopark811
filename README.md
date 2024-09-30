@@ -1,6 +1,7 @@
-# 🩻 Profile
+# 🩻 Introduction
 Hello, I am Kiho Park.<br>
 My MBTI type is ENFP.<br>
+
 
 I am a student studying Computer Engineering at Kangwon National University.<br>
 My main interest is game programming of development.<br>
