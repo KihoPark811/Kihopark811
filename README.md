@@ -1,4 +1,4 @@
-# 🩻 Introduction
+# Game Developer (Beginer)
 Hello, I am Kiho Park.<br>
 My MBTI type is ENFP.<br>
 
@@ -23,7 +23,7 @@ Thank you, everyone.
 
 
 
-
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 
 
