@@ -1,5 +1,6 @@
 # Game Developer
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![로고명](https://img.shields.io/badge/로고명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상)
 
 ## Experiences
 * Kangwon National University of Computer Science and Enginnering
