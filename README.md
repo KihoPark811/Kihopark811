@@ -1,5 +1,5 @@
 # PARK KI HO 🤣
-![Kiho's GitHub stats](https://github-readme-stats.vercel.app/api?username=kihopark811&show_icons=true&theme=github_dark_dimmed)
+![Kiho's GitHub stats](https://github-readme-stats.vercel.app/api?username=kihopark811&show_icons=true&theme=github_dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiho000811)](https://solved.ac/profile/kiho000811)
 
 ### 🪪Certificate
