@@ -2,6 +2,11 @@
 ![Kiho's GitHub stats](https://github-readme-stats.vercel.app/api?username=kihopark811&show_icons=true&theme=github_dark_dimmed)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiho000811)](https://solved.ac/profile/kiho000811)
 
+### 🪪Certificate
+- 정보처리기능사
+- 정보처리산업기사
+- 리눅스마스터 2급
+
 ### 🏃🏻‍♂️‍➡️Experiences
 * Jungwon University of Computer Engineering 🏫
 * Kangwon National University of Computer Enginnering 🏫
