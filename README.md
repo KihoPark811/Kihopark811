@@ -3,9 +3,11 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiho000811)](https://solved.ac/profile/kiho000811)
 
 ### 🏃🏻‍♂️‍➡️Experiences
+* Jungwon University of Computer Engineering 🏫
 * Kangwon National University of Computer Enginnering 🏫
 * Potanity(KNU's Game Development Club) 🥔
 * Alergy(KNU's Algorithm Study Club) 💻
+* Republic Of Korea Army CERT 🔐
 
 # 🔹Skills  
 ### ♾️Platforms & Languages
@@ -22,6 +24,8 @@
 ![jupyter](https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 # 📧Contacts 
+[![kakaotalk](https://img.shields.io/badge/kakaotalk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=black)](https://open.kakao.com/o/sl0mgIhh)
+[![instagram](https://img.shields.io/badge/instagram-FF0069?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kiho_park811?igsh=MXQzaWk2ZW1mYWtpaw==)
 [![Git Hub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/KihoPark811)
 [![notion](https://img.shields.io/badge/notion-000000.svg?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Game-Development-106676eb1d39800db3b1cbe1dac6fe8e)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-003366?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gpkiho000811@gmail.com)](mailto:gpkiho000811@gmail.com)
