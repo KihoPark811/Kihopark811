@@ -35,3 +35,4 @@
 [![notion](https://img.shields.io/badge/notion-000000.svg?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Game-Development-106676eb1d39800db3b1cbe1dac6fe8e)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-003366?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gpkiho000811@gmail.com)](mailto:gpkiho000811@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:gpkiho000811@naver.com)](mailto:gpkiho000811@naver.com)
+[![KNU Badge](https://img.shields.io/badge/Kangwon_National_University-00B2FF?style=flat-square&logo=messenger&logoColor=white&link=mailto:202214296@kangwon.ac.kr)](mailto:202214296@kangwon.ac.kr)
