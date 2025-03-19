@@ -8,7 +8,7 @@
 - 리눅스마스터 2급
 
 ### 🏃🏻‍♂️‍➡️Experiences
-* Jungwon University of Computer Engineering 🏫
+* Jungwon University of Computer Engineering(GPA: 4.39/4.5) 🏫
 * Kangwon National University of Computer Enginnering 🏫
 * Potanity(KNU's Game Development Club) 🥔
 * Alergy(KNU's Algorithm Study Club) 💻
