@@ -3,9 +3,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiho000811)](https://solved.ac/profile/kiho000811)
 
 ### 🪪Certificate
-- 정보처리기능사
-- 정보처리산업기사
-- 리눅스마스터 2급
+- 정보처리기능사(Craftsman Information Processing)
+- 정보처리산업기사(Industrial Engineer Information Processing)
+- 리눅스마스터 2급(Linux Master 2nd)
 
 ### 🏃🏻‍♂️‍➡️Experiences
 * Jungwon University of Computer Engineering(GPA: 4.39/4.5) 🏫
