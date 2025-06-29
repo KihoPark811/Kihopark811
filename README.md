@@ -17,7 +17,7 @@
 # 🔹Skills  
 ### ♾️Platforms & Languages
 ![python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=yellow)
-![C#](https://img.shields.io/badge/C%#1657ed?style=flat-square&logo=sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%1657ed?style=flat-square&logo=sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![unity](https://img.shields.io/badge/unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![unreal](https://img.shields.io/badge/unreal-FFFFFF?style=flat-square&logo=unrealengine&logoColor=black)
